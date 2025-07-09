@@ -1,0 +1,25 @@
+{
+  "name": "coding-test-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel tasks/task5/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoelleGames/coding-test-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoelleGames/coding-test-ts/issues"
+  },
+  "homepage": "https://github.com/HoelleGames/coding-test-ts#readme",
+  "description": "",
+  "dependencies": {
+    "pixi.js": "^8.11.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "typescript": "^5.0.0"
+  }
+}
